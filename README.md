@@ -3,6 +3,7 @@
 <b> Funções Avançadas do ES6 </b>
 
 * Aprenda o que é e como trabalhar com Arrow Functions
+
 * Default Function Arguments
 * Enhanced Object Literals
 
