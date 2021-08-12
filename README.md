@@ -36,9 +36,4 @@
 
 * Introdução
 * Como identificar os erros
-* Debugging part 1
-* Debugging part 2
-* 
-
-
-
+* Debugging
